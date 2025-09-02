@@ -1,0 +1,3 @@
+* Dr. Octopus
+* Ultron
+* Thanos
