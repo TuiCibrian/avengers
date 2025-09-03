@@ -1,4 +1,4 @@
 * Dr. Octopus
 * Ultron
 * Thanos
-* Venom
+* Satanás
