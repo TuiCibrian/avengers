@@ -17,3 +17,4 @@
 * Wasp
 * Antman
 * Aquaman
+* Moon Knight
